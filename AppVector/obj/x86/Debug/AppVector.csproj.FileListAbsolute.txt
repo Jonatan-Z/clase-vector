@@ -1,0 +1,7 @@
+C:\Users\Admin\documents\visual studio 2010\Projects\AppVector\AppVector\bin\Debug\AppVector.exe
+C:\Users\Admin\documents\visual studio 2010\Projects\AppVector\AppVector\bin\Debug\AppVector.pdb
+C:\Users\Admin\documents\visual studio 2010\Projects\AppVector\AppVector\obj\x86\Debug\AppVector.frmvector.resources
+C:\Users\Admin\documents\visual studio 2010\Projects\AppVector\AppVector\obj\x86\Debug\AppVector.Properties.Resources.resources
+C:\Users\Admin\documents\visual studio 2010\Projects\AppVector\AppVector\obj\x86\Debug\AppVector.csproj.GenerateResource.Cache
+C:\Users\Admin\documents\visual studio 2010\Projects\AppVector\AppVector\obj\x86\Debug\AppVector.exe
+C:\Users\Admin\documents\visual studio 2010\Projects\AppVector\AppVector\obj\x86\Debug\AppVector.pdb
